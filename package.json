@@ -1,0 +1,22 @@
+{
+  "name": "algorithms-with-js",
+  "version": "1.0.0",
+  "description": "My take to improve my JS skills",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kripu77/Algorithms-with-JS.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Kripu Khadka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kripu77/Algorithms-with-JS/issues"
+  },
+  "homepage": "https://github.com/Kripu77/Algorithms-with-JS#readme"
+}
