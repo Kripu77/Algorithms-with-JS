@@ -1,4 +1,4 @@
-#What is an Algorithm?
+What is an Algorithm?
 - In simple words, Algorithm is a set of well-defined instructions to solve a particular problem. 
 Example would be following a recipe while cooking, here we follow steps to ensure that our food is cooked appropriatley with proper ingridents. 
 
@@ -42,7 +42,8 @@ The evalutaion is of two types:
 2) Space Complexity:  The amount of memory taken by an Algorithm to run, as a function input size. 
 
 
-By evalutaing against the input size, the analysis is not only just machine independent but the comparison if also more appropriate.
+By evalutaing against the input size, the analysis is not only just machine independent but the comparison is also more appropriate.
+There could be scenarios where one algorithm could be faster when smaller numbers are present while slower when the number gradually increases.
 
 
 Some factors to consider are:
@@ -60,14 +61,21 @@ There are 3 main Asymptotic notations:
 3) Theta notation (0-notation) - Average case complexity.
 
 
-The 1st step in being more pracitical is to not worry about the Best case and the Average case complexity. As we deal with problems we identify that we primairly concerned with worst case scenarios of an Algorithms.
+The 1st step in being more pracitical is to not worry about the Best and the Average case complexity. As we deal with problems we identify that we primairly concerned with worst case scenarios of an Algorithms.
 
 
 
 
 
-#Big-O-Notation
+Big-O-Notation:
 
+Worst case complexity of an algorithm is represented  using Big-O-Notation. 
+
+Big-O-notation describes the complexity of an Algorithm using algerabic terms.
+
+The Big-O-notation has two important characteritics:
+1) It is expressed in terms of the input we have. 
+2) It focuses on the bigger picture without getting caught up in the minute details. 
 
 Algoirthms are classified in four categories:
 
